@@ -3,6 +3,8 @@
 #PS C:\Users\Owner\OneDrive\9. Pending\Python_SYS\python 셀레니움\.venv> cd Scripts
 #PS C:\Users\Owner\OneDrive\9. Pending\Python_SYS\python 셀레니움\.venv\Scripts> .\activate
 #(.venv) PS C:\Users\Owner\OneDrive\9. Pending\Python_SYS\python 셀레니움\.venv\Scripts> pip install selenium
+#PS C:\Users\Owner\OneDrive\9. Pending\Python_SYS\web_scrapping Project\.venv\Scripts> python -m venv .venv
+
 
 # 웹페이지 열기
 from selenium import webdriver
