@@ -42,12 +42,12 @@ time.sleep(2)
 driver.save_screenshot("naver_인공지능.png")
 driver.quit()
 
-'''Open git bash here에서 깃허브에 원격저장하기
-$ git init
-$ git remote add origin https://github.com/wezcpa/web.scrappping_241023
-$ git config --global user.name wezcpa
-$ git config --global user.email wezcpa@kakao.com
-$ git add .
-$ git commit -m "세팅"
-$ git push origin master
-'''
+# Open git bash here에서 깃허브에 원격저장하기
+# $ git init
+# $ git remote add origin https://github.com/wezcpa/web.scrappping_241023
+# $ git config --global user.name wezcpa
+# $ git config --global user.email wezcpa@kakao.com
+# $ git add .
+# $ git commit -m "저장할 이름"
+# $ git push origin master
+# '''
